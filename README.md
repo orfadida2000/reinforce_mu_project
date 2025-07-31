@@ -71,7 +71,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## 🚀 How to Run
+## ▶ How to Run
 
 From the project root (**[reinforce_mu_project/](.)**), run:
 
